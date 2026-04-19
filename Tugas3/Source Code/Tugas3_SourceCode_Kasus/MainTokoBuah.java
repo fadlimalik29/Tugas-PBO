@@ -1,3 +1,8 @@
+/* NIM   : 13020240242
+Nama  : La Ode Muh. Fadli Malik
+Hari/Tanggal : 18 April
+Waktu : 14:00*/
+
 package tokobuah;
 import java.util.Scanner;
 
